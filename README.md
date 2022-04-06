@@ -19,11 +19,7 @@ git clone https://fatapp2020@github.com/fatapp2020/react-contador.git
 - git pull
 ```
 
-### Levantar Proyecto Primera Vez
+### Levantar Proyecto
 ```
-- Traer archivo ".env"
-- npm install
-- composer update
-- php artisan serve -v 
-- Crear BBDD
+- npm start
 ```
